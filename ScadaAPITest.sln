@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScadaAPI.Test", "ScadaAPI.Test\ScadaAPI.Test.csproj", "{5DF92657-AE62-457E-96D1-4E4331A2B900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScadaAPI.Logic", "ScadaAPI.Logic\ScadaAPI.Logic.csproj", "{6B8055E0-BAE4-4B05-A025-3C6D229C04CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF92657-AE62-457E-96D1-4E4331A2B900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF92657-AE62-457E-96D1-4E4331A2B900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF92657-AE62-457E-96D1-4E4331A2B900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF92657-AE62-457E-96D1-4E4331A2B900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8055E0-BAE4-4B05-A025-3C6D229C04CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8055E0-BAE4-4B05-A025-3C6D229C04CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8055E0-BAE4-4B05-A025-3C6D229C04CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8055E0-BAE4-4B05-A025-3C6D229C04CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
